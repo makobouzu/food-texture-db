@@ -1,0 +1,35 @@
+{
+  "name": "db-upload",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@next/font": "13.1.6",
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "firebase": "^9.17.1",
+    "fontsource-noto-sans-jp": "^4.0.0",
+    "framer-motion": "^9.0.4",
+    "next": "13.1.6",
+    "openai": "^3.3.0",
+    "react": "18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-use": "^17.4.0",
+    "react-window-size-listener": "^1.5.4",
+    "wink-eng-lite-web-model": "^1.5.0",
+    "wink-nlp": "^1.14.1",
+    "yarn": "^1.22.19"
+  }
+}
